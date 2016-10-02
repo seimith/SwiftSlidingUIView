@@ -6,4 +6,4 @@ http://seimith.github.io/swift/uiview/views/tutorial/animation/2016/10/01/Swift-
 ### To Run This
 
 - git clone
-- open `SwiftPulsatingUIView.xcodeproj`
+- open `SlidingUIView.xcodeproj`
